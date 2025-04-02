@@ -1,0 +1,8 @@
+Install speechrecognition (to communicate with speechrecognition)
+install pyttsx3 (Python 3 speech text)
+install neuralintents (Basic interface that we can use to build chatbots, intelligent assistance, etc).
+
+from neuralintents import GenericAssistance
+import speech_recognition
+import pyttsx3 as tts
+import sys
